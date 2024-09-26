@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tina Coulouras👋
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... AI Business Analytics and reporting and Python.
+- 🌱 I am currently studying AI, Business Analytics, and Python programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: tinadoull@gmail.com
 - 😄 Pronouns: ... 'She', 'Her'
